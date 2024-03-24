@@ -8,12 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd402927d9b409aa",
+            "id": "8ab4542b52a00691",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "services/Диагностика.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "68d7bf2f4d71421c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "services/Услуги.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "42ddb5cea0ce2529",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "storage device.md",
+                "file": "БИОС.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +51,12 @@
             }
           },
           {
-            "id": "6ea1910852167129",
+            "id": "67736e6d9c1ac7ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "storage/dimm sodimm.md",
+                "file": "Проверка жесткого диска.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,25 +64,12 @@
             }
           },
           {
-            "id": "33d08f4d18bd102f",
+            "id": "b3fc77c96a3b1cdd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPU/risc cisc.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c06920de2cb59b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cooling/TDP.md",
+                "file": "exp_materials.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CPU/risc cisc.md",
+                "file": "Проверка жесткого диска.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CPU/risc cisc.md",
+                "file": "Проверка жесткого диска.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CPU/risc cisc.md"
+                "file": "Проверка жесткого диска.md"
               }
             }
           }
@@ -175,7 +192,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202
+    "width": 218
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,43 +201,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "33d08f4d18bd102f",
+  "active": "67736e6d9c1ac7ef",
   "lastOpenFiles": [
-    "Двоичный код.md",
-    "boolean logic.md",
-    "cooling/cooling system.md",
     "exp_materials.md",
-    "GPU.md",
-    "practice.md",
-    "ram.md",
-    "rom.md",
-    "CPU/Architecture of CPU.md",
-    "CPU/CPU.md",
-    "CPU/CPU Clock.md",
-    "CPU/CPU core.md",
-    "CPU/FDE cycle.md",
-    "CPU/risc cisc.md",
-    "CPU/techProcess.md",
-    "themes.md",
-    "theory.md",
-    "tips_hacks.md",
+    "Проверка жесткого диска.md",
+    "БИОС.md",
+    "POST (Power-On Self Test).md",
+    "Проверка твердотельного накопителя.md",
+    "files/Pasted image 20240323232728.png",
+    "files/Pasted image 20240323232711.png",
+    "files/Pasted image 20240323232701.png",
+    "services/Диагностика.md",
+    "files/Pasted image 20240323223847.png",
+    "services/Услуги.md",
+    "OEM ключ windows.md",
+    "DOEM ключ лицензии.md",
+    "system.md",
+    "storage/SSD.md",
     "storage device.md",
-    "cooling/процесс отвода тепла теплотрубками.md",
-    "cooling/Термоинтерфейс.md",
-    "cooling/TDP.md",
-    "storage/dimm sodimm.md",
-    "storage/Ram def.md",
-    "storage/HDD.md",
-    "storage",
-    "storage/memory pyramid.md",
+    "PCI.md",
+    "theory.md",
+    "Untitled.md",
+    "tips_hacks.md",
+    "themes.md",
+    "rom.md",
+    "ram.md",
+    "practice.md",
+    "NVMe.md",
+    "GPU.md",
+    "boolean logic.md",
+    "чистка и обслуживание.md",
+    "Окисление контактов.md",
+    "services",
+    "files/Pasted image 20240320233239.png",
+    "files/Pasted image 20240320233040.png",
+    "files/Pasted image 20240320233022.png",
+    "files/Pasted image 20240320232401.png",
     "files/Pasted image 20240317170121.png",
     "files/Pasted image 20240316213115.png",
+    "storage",
     "cooling",
-    "files/Pasted image 20240316202405.png",
-    "files/Pasted image 20240316185349.png",
     "files",
     "CPU"
   ]
