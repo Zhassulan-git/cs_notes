@@ -57,6 +57,71 @@
               "type": "markdown",
               "state": {
                 "file": "Проверка жесткого диска.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b283cec83fd7706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проверка твердотельного накопителя.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0887e5ead23ffb3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разбор корпус Д.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d58a4ac4736f79b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разбор корпуса С.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7a60b5af430240b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разбор ноутбука через клавиатуру.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "083cd299222cf356",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разборка.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -77,7 +142,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -143,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проверка жесткого диска.md",
+                "file": "Разбор ноутбука через клавиатуру.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проверка жесткого диска.md",
+                "file": "Разбор ноутбука через клавиатуру.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +248,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проверка жесткого диска.md"
+                "file": "Разбор ноутбука через клавиатуру.md"
               }
             }
           }
@@ -205,19 +270,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "67736e6d9c1ac7ef",
+  "active": "7a60b5af430240b4",
   "lastOpenFiles": [
-    "exp_materials.md",
+    "Разбор корпуса С.md",
+    "Разбор корпус Д.md",
+    "Разбор ноутбука через клавиатуру.md",
+    "Проверка твердотельного накопителя.md",
     "Проверка жесткого диска.md",
     "БИОС.md",
+    "CPU/Architecture of CPU.md",
+    "files/Pasted image 20240325192306.png",
+    "CPU/CPU.md",
+    "boolean logic.md",
+    "services/Диагностика.md",
+    "storage/MSATA.md",
+    "Разборка.md",
+    "services/Услуги.md",
+    "exp_materials.md",
+    "Двоичный код.md",
+    "cooling/процесс отвода тепла теплотрубками.md",
     "POST (Power-On Self Test).md",
-    "Проверка твердотельного накопителя.md",
     "files/Pasted image 20240323232728.png",
     "files/Pasted image 20240323232711.png",
     "files/Pasted image 20240323232701.png",
-    "services/Диагностика.md",
     "files/Pasted image 20240323223847.png",
-    "services/Услуги.md",
     "OEM ключ windows.md",
     "DOEM ключ лицензии.md",
     "system.md",
@@ -225,24 +301,14 @@
     "storage device.md",
     "PCI.md",
     "theory.md",
-    "Untitled.md",
     "tips_hacks.md",
     "themes.md",
-    "rom.md",
-    "ram.md",
-    "practice.md",
-    "NVMe.md",
-    "GPU.md",
-    "boolean logic.md",
-    "чистка и обслуживание.md",
-    "Окисление контактов.md",
     "services",
     "files/Pasted image 20240320233239.png",
     "files/Pasted image 20240320233040.png",
     "files/Pasted image 20240320233022.png",
     "files/Pasted image 20240320232401.png",
     "files/Pasted image 20240317170121.png",
-    "files/Pasted image 20240316213115.png",
     "storage",
     "cooling",
     "files",
