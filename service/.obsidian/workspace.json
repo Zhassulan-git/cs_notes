@@ -38,8 +38,24 @@
             }
           },
           {
+            "id": "c6026a56782cd379",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mat/Мат плата.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "42ddb5cea0ce2529",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -47,29 +63,17 @@
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "67736e6d9c1ac7ef",
+            "id": "f1b91595ca371841",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проверка жесткого диска.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0b283cec83fd7706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проверка твердотельного накопителя.md",
+                "file": "Mat/Структура платы.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -77,12 +81,12 @@
             }
           },
           {
-            "id": "a0887e5ead23ffb3",
+            "id": "679405a62d879195",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разбор корпус Д.md",
+                "file": "Конденсаторы (Capacitors).md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -90,12 +94,12 @@
             }
           },
           {
-            "id": "d58a4ac4736f79b5",
+            "id": "b901e484fe4259f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разбор корпуса С.md",
+                "file": "Дроссель.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -103,12 +107,12 @@
             }
           },
           {
-            "id": "7a60b5af430240b4",
+            "id": "de1c26098ad67b99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разбор ноутбука через клавиатуру.md",
+                "file": "Шим контроллер.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -116,12 +120,12 @@
             }
           },
           {
-            "id": "083cd299222cf356",
+            "id": "7c55dbab8c816b67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разборка.md",
+                "file": "Файловая система.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -129,12 +133,25 @@
             }
           },
           {
-            "id": "b3fc77c96a3b1cdd",
+            "id": "12b555e7d0d37510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "exp_materials.md",
+                "file": "Виртуальное хранилище.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "54b8772a5395c4c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Резистор.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -142,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -171,7 +188,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "чипсет",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Разбор ноутбука через клавиатуру.md",
+                "file": "Виртуальное хранилище.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Разбор ноутбука через клавиатуру.md",
+                "file": "Виртуальное хранилище.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +265,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Разбор ноутбука через клавиатуру.md"
+                "file": "Виртуальное хранилище.md"
               }
             }
           }
@@ -270,45 +287,46 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7a60b5af430240b4",
+  "active": "12b555e7d0d37510",
   "lastOpenFiles": [
+    "Файловая система.md",
+    "Виртуальное хранилище.md",
+    "Шим контроллер.md",
+    "files/Pasted image 20240331203113.png",
+    "AAA_exp_materials.md",
+    "Дроссель.md",
+    "files/Pasted image 20240331202809.png",
+    "Конденсаторы (Capacitors).md",
+    "files/Pasted image 20240331202511.png",
+    "Резистор.md",
+    "SMD Components.md",
+    "Mat/Структура платы.md",
+    "БИОС.md",
+    "Mat/Мат плата.md",
+    "чистка и обслуживание.md",
+    "Разборка.md",
+    "Персонализация.md",
     "Разбор корпуса С.md",
     "Разбор корпус Д.md",
-    "Разбор ноутбука через клавиатуру.md",
-    "Проверка твердотельного накопителя.md",
-    "Проверка жесткого диска.md",
-    "БИОС.md",
-    "CPU/Architecture of CPU.md",
-    "files/Pasted image 20240325192306.png",
-    "CPU/CPU.md",
-    "boolean logic.md",
-    "services/Диагностика.md",
-    "storage/MSATA.md",
-    "Разборка.md",
     "services/Услуги.md",
-    "exp_materials.md",
-    "Двоичный код.md",
-    "cooling/процесс отвода тепла теплотрубками.md",
-    "POST (Power-On Self Test).md",
+    "services/Диагностика.md",
+    "Проверка жесткого диска.md",
+    "storage/Ram def.md",
+    "Чипсет.md",
+    "CPU/CPU.md",
+    "files/Pasted image 20240331201905.png",
+    "Питание процессора.md",
+    "Mat",
+    "CPU/CPU Clock.md",
+    "CPU/techProcess.md",
+    "CPU/risc cisc.md",
+    "files/Pasted image 20240331200834.png",
+    "files/Pasted image 20240325192306.png",
     "files/Pasted image 20240323232728.png",
     "files/Pasted image 20240323232711.png",
     "files/Pasted image 20240323232701.png",
     "files/Pasted image 20240323223847.png",
-    "OEM ключ windows.md",
-    "DOEM ключ лицензии.md",
-    "system.md",
-    "storage/SSD.md",
-    "storage device.md",
-    "PCI.md",
-    "theory.md",
-    "tips_hacks.md",
-    "themes.md",
     "services",
-    "files/Pasted image 20240320233239.png",
-    "files/Pasted image 20240320233040.png",
-    "files/Pasted image 20240320233022.png",
-    "files/Pasted image 20240320232401.png",
-    "files/Pasted image 20240317170121.png",
     "storage",
     "cooling",
     "files",
