@@ -1,0 +1,8 @@
+[[CPU]]
+[[boolean logic]]
+[[cooling system]]
+[[storage device]]
+[[connectors]]
+[[practice]]
+[[theory]]
+[[Услуги]]
